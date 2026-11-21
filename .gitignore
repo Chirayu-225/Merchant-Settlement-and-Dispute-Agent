@@ -9,3 +9,5 @@ paytm/
 backup/
 .vscode/
 .idea/
+venv/
+.venv/
